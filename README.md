@@ -13,3 +13,6 @@ Translate
 There could be differences between my Conky and yours like the LUA circle which could be shifted or certain text, so that you can adjust it as best as possible. I developed it under fedora in 1920x1080 and a scaling at 0.97 on GnomeTweaks
 
 You have the template made with gimp if you want to modify certain things
+
+
+![Capture d’écran du 2024-01-05 13-56-49](https://github.com/neecride/GreatPanel/assets/8920228/3780cbe1-e426-4c71-8710-85ebefbf39e7)
