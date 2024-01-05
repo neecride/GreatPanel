@@ -1,4 +1,4 @@
-Conky based on - Closebox73x - https://www.pling.com/p/1961175
+Conky inspired by - Closebox73x - https://www.pling.com/p/1961175
 
 FR_fr
 
