@@ -14,5 +14,4 @@ There could be differences between my Conky and yours like the LUA circle which 
 
 You have the template made with gimp if you want to modify certain things
 
-
-![Capture d’écran du 2024-01-05 13-56-49](https://github.com/neecride/GreatPanel/assets/8920228/3780cbe1-e426-4c71-8710-85ebefbf39e7)
+![Capture d’écran du 2024-01-17 21-52-24](https://github.com/neecride/GreatPanel/assets/8920228/ac58f3b1-0878-4a9b-a49a-d31e003fb489)
