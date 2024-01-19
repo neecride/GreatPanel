@@ -27,7 +27,7 @@ settings_table = {
         fg_colour=0x2e3261
 ,
         fg_alpha=0.8,
-        x=331, y=52.7,
+        x=282, y=52.7,
         radius=30,
         thickness=8,
         start_angle=0,
@@ -42,9 +42,24 @@ settings_table = {
         fg_colour=0x2e3261
 ,
         fg_alpha=0.8,
-        x=251, y=52.7,
+        x=203, y=52.7,
         radius=30,
         thickness=8,
+        start_angle=0,
+        end_angle=360
+    },
+    {
+        name='mpd_percent',
+        arg='',
+        max=100,
+        bg_colour=0x0f0f0f,
+        bg_alpha=0.2,
+        fg_colour=0x2e3261
+,
+        fg_alpha=0.8,
+        x=37.5, y=627.5,
+        radius=25,
+        thickness=6,
         start_angle=0,
         end_angle=360
     },
