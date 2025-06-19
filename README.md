@@ -2,6 +2,8 @@ Conky inspired by - Closebox73x - https://www.pling.com/p/1961175
 
 FR_fr
 
+Version pour rainmeter ajouté
+
 Il pourrait y avoir des différences entre mon Conky et le votre comme les cercle LUA qui pourrait être décalé ou certain texte, pour que vous puissiez ajusté au mieux moi je l'ai développer sous fedora en 1920x1080 et un scalling a 0,97 sur GnomeTweaks 
 
 Vous avez le gabarit réalisé avec gimp si vous souhaitez modifié certaine choses 
